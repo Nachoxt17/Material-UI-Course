@@ -288,7 +288,7 @@ function App() {
             <LittleBox />
             <br />
             <br />
-            <h1>+-(10)-Grid Responsive:_</h1>
+            <h1>+-(10)-Grids Responsive:_</h1>
             <br />
             <br />
             <GridsResponsive />
